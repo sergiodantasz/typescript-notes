@@ -31,7 +31,6 @@ out/
 *.map
 
 # IDE and Editor files
-.vscode/
 .idea/
 *.swp
 *.swo
