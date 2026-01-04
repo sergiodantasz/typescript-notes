@@ -34,6 +34,17 @@ This repository contains my personal notes and code samples for learning and ref
 - [This as Type](src/advanced-types/this-as-type.ts)
 - [Type Guard](src/advanced-types/type-guard.ts)
 
+### Generics
+
+- [Array and Promise](src/generics/array-promise.ts)
+- [Class](src/generics/class.ts)
+- [Constraints](src/generics/constraints.ts)
+- [Interface and Type Alias](src/generics/interface-type-alias.ts)
+- [Intersection](src/generics/intersection.ts)
+- [Introduction](src/generics/introduction.ts)
+- [Type Predicate](src/generics/type-predicate.ts)
+- [Utility Types](src/generics/utility-types.ts)
+
 ### Object-Oriented Programming
 
 - [Abstract](src/oop/abstract.ts)
