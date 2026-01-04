@@ -59,3 +59,12 @@ This repository contains my personal notes and code samples for learning and ref
 - [Private Constructor](src/oop/private-constructor.ts)
 - [Static](src/oop/static.ts)
 - [Type Alias](src/oop/type-alias.ts)
+
+### Decorators
+
+- [Introduction](src/decorators/introduction.ts)
+- [Decorator Factory](src/decorators/decorator-factory.ts)
+- [Decorator Composition](src/decorators/decorator-composition.ts)
+- [Method Decorator](src/decorators/method-decorator.ts)
+- [Property Decorator](src/decorators/property-decorator.ts)
+- [Parameter Decorator](src/decorators/parameter-decorator.ts)
