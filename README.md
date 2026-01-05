@@ -68,3 +68,9 @@ This repository contains my personal notes and code samples for learning and ref
 - [Method Decorator](src/decorators/method-decorator.ts)
 - [Property Decorator](src/decorators/property-decorator.ts)
 - [Parameter Decorator](src/decorators/parameter-decorator.ts)
+
+### Modules
+
+- [Import External Libraries](src/modules/import-external-libs.ts)
+- [Import JavaScript Files](src/modules/import-js-files.ts)
+- [Namespaces](src/modules/namespaces.ts)
