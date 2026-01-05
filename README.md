@@ -74,3 +74,11 @@ This repository contains my personal notes and code samples for learning and ref
 - [Import External Libraries](src/modules/import-external-libs.ts)
 - [Import JavaScript Files](src/modules/import-js-files.ts)
 - [Namespaces](src/modules/namespaces.ts)
+
+### SOLID Principles
+
+- [Single Responsibility Principle](src/solid/srp/main.ts)
+- [Open/Closed Principle](src/solid/ocp/main.ts)
+- [Liskov Substitution Principle](src/solid/lsp/main.ts)
+- [Interface Segregation Principle](src/solid/isp/main.ts)
+- [Dependency Inversion Principle](src/solid/dip/main.ts)
